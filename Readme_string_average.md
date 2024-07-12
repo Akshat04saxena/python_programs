@@ -1,0 +1,1 @@
+in this problem i'm calculating the Average the numbers of a list which is taken from the user and i also apply the exception handling concepts using try and except
