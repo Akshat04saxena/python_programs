@@ -26,7 +26,3 @@ while True:
         print("Invalid input. Please enter an integer.")
 
 average()
-# l1 = int(input("Enter a first number :\n"))
-# l2 = int(input("Enter a second number :\n"))
-# l3 = int(input("Enter a third number :\n"))
-# l4 = int(input("Enter a fourth number :\n"))
